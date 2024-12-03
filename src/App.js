@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './App.css';
+
 import CharacterInfo from './CharacterInfo';
 
 function App() {
